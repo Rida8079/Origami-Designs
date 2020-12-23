@@ -1,0 +1,23 @@
+h1{
+    color: #66ffa8;
+}
+
+.header{
+    background-color:#24bdf4;
+    display:flex;
+    justify-content:space-between;
+    border-style: dashed;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+    border-style:groove;
+}
+body{
+    background-color: #fe3452de;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
